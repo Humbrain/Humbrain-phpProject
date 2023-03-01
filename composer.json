@@ -1,6 +1,6 @@
 {
   "name": "humbrain/php-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "project",
   "authors": [
     {
@@ -21,6 +21,6 @@
   "description": "A simple project using humbrain/php-frame-work",
   "require": {
     "php": ">=8.1",
-    "humbrain/php-frame-work": "2.0.0"
+    "humbrain/php-frame-work": "2.1.0"
   }
 }
