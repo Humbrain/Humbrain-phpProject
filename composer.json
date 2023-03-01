@@ -1,0 +1,26 @@
+{
+  "name": "humbrain/php-project",
+  "version": "1.0.0",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Steodec",
+      "email": "paul.tedesco@humbrain.com",
+      "role": "Author"
+    }
+  ],
+  "license": "Apache-2.0",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "description": "A simple project using humbrain/php-frame-work",
+  "require": {
+    "php": ">=8.1",
+    "humbrain/php-frame-work": "2.0.0"
+  }
+}
